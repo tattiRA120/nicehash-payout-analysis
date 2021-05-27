@@ -1,0 +1,1 @@
+# nicehash-payout-analysis
